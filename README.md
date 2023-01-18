@@ -1,6 +1,6 @@
 ![logo](https://github.com/meerakumar826/meerakumar826/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Meera Maya</h1>
-<h3 align="center">A passionate Full Stack developer from Canada</h3>
+<h3 align="center">A passionate Full Stack Developer from Canada</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/63925189/213091550-dcb8a0d3-bc2e-4255-8bf4-ea13c7dc4942.png">
                                                  
