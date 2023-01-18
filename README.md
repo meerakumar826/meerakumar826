@@ -1,4 +1,4 @@
-
+![logo](https://github.com/meerakumar826/meerakumar826/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Meera MAya</h1>
 <h3 align="center">A passionate Full Stack developer from Canada</h3>
 
